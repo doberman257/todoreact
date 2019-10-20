@@ -1,0 +1,21 @@
+.bzz {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.bzz:hover {
+    cursor: pointer;
+}
+
+.ll {
+    width: 300px;
+}
+
+.pic {
+    color: lightsalmon;
+}
+
+.ww {
+    width: 270px;
+}
